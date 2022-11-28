@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main-container{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.header-section{
+
+    width: 100%;
+    height: 20%;
+    background-color: #BAD0F1;
+}
+.section-2{
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    position: relative;
+}
+
+.section-2 img{
+    border-radius: 50%;
+    margin-top: -65px;
+}
+
+.sub-container{
+    padding-top: 40px;
+    display: flex;
+    width: 100%;
+}
+
+.sub-container-1{
+    width: 50%;
+    background-color:#BAD0F1 ;
+    padding-left: 10%;
+}
+.sub-container-2{
+    padding-left: 10%;
+    width: 50%;
+}
